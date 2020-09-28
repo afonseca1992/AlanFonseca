@@ -1,0 +1,19 @@
+{
+  "name": "guia_ejecricios_javascript",
+  "version": "1.0.0",
+  "description": "esta es la primer guia de ejercicios de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afonseca1992/AlanFonseca.git"
+  },
+  "author": "alanfonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afonseca1992/AlanFonseca/issues"
+  },
+  "homepage": "https://github.com/afonseca1992/AlanFonseca#readme"
+}
